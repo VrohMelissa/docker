@@ -37,6 +37,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
  Télécharger Docker Desktop pour Windows depuis le site officiel :
    https://docs.docker.com/desktop/install/windows-install/
 et suivre les instructions pour installation .
+
 ![image](https://github.com/user-attachments/assets/8ebe34a6-a337-4ccf-b5ef-6ee36cc8f2aa)
 
 
