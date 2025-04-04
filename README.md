@@ -1,7 +1,7 @@
 # docker
-Installation docker
+# Installation docker
 
-1. Installer Docker sur Ubuntu (Linux)
+#  Installer Docker sur Ubuntu (Linux)
 
 Prérequis
 -Système Ubuntu 18.04 ou supérieur.
@@ -32,7 +32,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 -Vérifier l'installation :
   sudo docker --version
 
- Installer Docker sur Windows  
+ # Installer Docker sur Windows  
 
  Télécharger Docker Desktop pour Windows depuis le site officiel :
    https://docs.docker.com/desktop/install/windows-install/
